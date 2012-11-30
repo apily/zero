@@ -1,13 +1,3 @@
-# {{project.name}}
-
-{{project.description}}
-
-## Installation
-
-    $ npm install {{project.name}}
-
-## License
-
 (The MIT License)
 
 Copyright (c) 2012 Enrico Marino e Federico Spini
