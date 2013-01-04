@@ -1,13 +1,3 @@
-# {{project.name}}
-
-{{project.description}}
-
-## Installation
-
-    $ component install {{project.name}}
-
-## License
-
 (The MIT License)
 
 Copyright (c) 2013 Enrico Marino and Federico Spini

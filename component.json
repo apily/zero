@@ -1,0 +1,13 @@
+{
+  "name": "{{project.name}}",
+  "repo": "{{project.author}}/{{project.name}}",
+  "version": "0.0.0",
+  "description": "{{project.description}}",
+  "keywords": [],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT"
+}
